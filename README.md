@@ -82,8 +82,6 @@
 2. 登录时输入账号 `admin`，密码 `admin`
 3. 开始编辑
 
-> ⚠️ 注意：`scripts/allll.js` 需要重命名为 `scripts/piexifjs.js`，或者修改 `index.html` 中的引用路径。
-
 ### 方式二：带后端完整部署
 
 #### 启动后端
